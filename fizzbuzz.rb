@@ -4,7 +4,7 @@ def fizzbuzz
 # if fizz_3 == 3
 #   puts "Fizz"
 # elsif condition
-  
+
 
 
 
